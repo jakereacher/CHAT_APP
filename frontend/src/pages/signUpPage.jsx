@@ -13,7 +13,7 @@ const SignUpPage = () => {
     password: ''
   });
 
-  const { signUp, isSigningUp} = useAuthStore();
+  const { signup, isSigningUp} = useAuthStore();
 
   const validateForm = () => {
 
@@ -52,7 +52,7 @@ const SignUpPage = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     const success = validateForm()
-    if(success===true) signUp(formData)
+    if(success===true) signup(formData)
   };
 
   return (

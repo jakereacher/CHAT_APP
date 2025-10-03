@@ -1,0 +1,21 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build":"",
+    "start":""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakereacher/CHAT_APP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakereacher/CHAT_APP/issues"
+  },
+  "homepage": "https://github.com/jakereacher/CHAT_APP#readme",
+  "description": ""
+}

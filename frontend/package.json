@@ -14,6 +14,7 @@
     "@tailwindcss/vite": "^4.1.13",
     "autoprefixer": "^10.4.21",
     "axios": "^1.12.2",
+    "chat_app": "file:..",
     "lucide": "^0.544.0",
     "lucide-react": "^0.544.0",
     "postcss": "^8.5.6",
